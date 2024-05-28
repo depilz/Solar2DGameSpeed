@@ -5,11 +5,11 @@ This tool is designed for controlling the game’s speed in Solar2D, primarily f
 ## Controls
 You can find a keyboard.lua inside the GameSpeed folder which is has the basic controls for this tool. It is in a different file since this is very likely the file you will like to change according to your project.
 
-- **Space bar:** Toggle auto speed up.
-- **Left arrow key:** Slow down the game.
-- **Right arrow key:** Speed up the game.
-- **Up arrow key:** Make the game faster.
-- **Down arrow key:** Make the game slower.
+- **Space bar:** Toggle Fast mode.
+- **Left arrow key (hold):** Fast mode on.
+- **Right arrow key (hold):** Slow mode on.
+- **Up arrow key:** Speed++.
+- **Down arrow key:** Speed--.
   
 
 ## Important Notes
